@@ -655,4 +655,32 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+  .buttons{
+    margin:0;
+    height:30rem;
+  }
+  .one{
+    float: left;
+    height: auto;
+    margin:5px;
+  }
+  .para1{
+    margin-top:6rem;
+    float: left;
+  }
+  .para2{
+    margin-top:6rem;
+    float: left;
+    margin-left: 0;
+  }
+  .para3{
+    margin-top:6rem;
+    float: left;
+    margin-left: 0;
+  }
+  .para4{
+    margin-top:6rem;
+    float: left;
+    margin-left: 0;
+  }
 }
